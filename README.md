@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# 🎮 BetMaster - Promotional Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+![BetMaster](https://img.shields.io/badge/BetMaster-Play%20%7C%20Predict%20%7C%20Win-4CAF50?style=for-the-badge&logo=gamepad&logoColor=white)
 
-In the project directory, you can run:
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-0.x-000000?style=flat-square&logo=three.js)](https://threejs.org/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.x-0055FF?style=flat-square&logo=framer)](https://www.framer.com/motion/)
+[![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat-square&logo=netlify)](https://www.netlify.com/)
 
-### `npm start`
+### 🌐 [Live Demo](https://betmaster.netlify.app) | 📱 [Download APK](https://drive.google.com/file/d/18UrcDjcOR2e1GvaFQW7UuYSLIjJUpcqH/view?usp=sharing)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📸 Website Preview
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
 
-### `npm run build`
+### 🏠 Hero Section with 3D Background
+*Interactive 3D floating sports objects - Cricket balls, football, cards, and trophies*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🎮 Games Showcase
+*6+ games displayed with beautiful gradient cards and animations*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💰 Prizes & Winnings
+*Live winners ticker, daily jackpots, and referral bonuses*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 📱 Download Section
+*Direct APK download with platform selection*
 
-### `npm run eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🎨 Visual Excellence
+- ✅ **3D Animated Background** - Three.js powered floating sports objects
+- ✅ **Glassmorphism Design** - Modern frosted glass UI effects
+- ✅ **Smooth Animations** - Framer Motion page transitions & micro-interactions
+- ✅ **Responsive Design** - Optimized for all devices (mobile, tablet, desktop)
+- ✅ **Dark Theme** - Premium dark color scheme with green accents
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🎵 Interactive Elements
+- ✅ **Background Music** - Random playlist with mute/skip controls
+- ✅ **Sports Sound Effects** - Immersive gaming atmosphere
+- ✅ **Game Alert Modals** - Beautiful popup when clicking "Play Now"
+- ✅ **Live Winners Ticker** - Real-time winning announcements
+- ✅ **Prize Calculator** - Interactive potential winnings display
 
-## Learn More
+### 📄 Pages
+- ✅ **Home** - Hero section, games grid, features, prizes, testimonials
+- ✅ **Games** - All 6 games with detailed cards and play alerts
+- ✅ **Download** - APK download with iOS coming soon
+- ✅ **FAQ** - Animated accordion with common questions
+- ✅ **Contact** - FormSubmit integration (sends to your email)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🌍 Localization
+- ✅ **English** (Default)
+- ✅ **Hindi** (हिन्दी)
+- ✅ **Chinese** (中文)
+- ✅ **Language Switcher** - Persistent language selection
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🛠️ Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+| Technology | Purpose |
+|------------|---------|
+| React 18 | UI framework |
+| Tailwind CSS 3 | Utility-first styling |
+| Three.js / React Three Fiber | 3D background animations |
+| Framer Motion | Page animations & gestures |
+| React Router 6 | Client-side routing |
+| React Icons | Icon library |
+| i18next | Internationalization |
+| FormSubmit | Contact form email delivery |
+| Web Audio API | Background music system |
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📦 Installation
 
-### Making a Progressive Web App
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Quick Start
 
-### Advanced Configuration
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/betmaster-website.git
+cd betmaster-website
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Install dependencies
+npm install
 
-### Deployment
+# Start development server
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Build for production
+npm run build
