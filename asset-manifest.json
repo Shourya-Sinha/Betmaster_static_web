@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Betmaster_static_web/static/css/main.75178409.css",
+    "main.js": "/Betmaster_static_web/static/js/main.d0eb8e54.js",
+    "static/js/365.12924ded.chunk.js": "/Betmaster_static_web/static/js/365.12924ded.chunk.js",
+    "static/js/212.f83e01fb.chunk.js": "/Betmaster_static_web/static/js/212.f83e01fb.chunk.js",
+    "static/js/147.c3007264.chunk.js": "/Betmaster_static_web/static/js/147.c3007264.chunk.js",
+    "static/js/243.2c5dfae0.chunk.js": "/Betmaster_static_web/static/js/243.2c5dfae0.chunk.js",
+    "static/js/615.61f0d7bc.chunk.js": "/Betmaster_static_web/static/js/615.61f0d7bc.chunk.js",
+    "static/js/453.e8f933bb.chunk.js": "/Betmaster_static_web/static/js/453.e8f933bb.chunk.js",
+    "static/js/315.e5950c4b.chunk.js": "/Betmaster_static_web/static/js/315.e5950c4b.chunk.js",
+    "index.html": "/Betmaster_static_web/index.html",
+    "main.75178409.css.map": "/Betmaster_static_web/static/css/main.75178409.css.map",
+    "main.d0eb8e54.js.map": "/Betmaster_static_web/static/js/main.d0eb8e54.js.map",
+    "365.12924ded.chunk.js.map": "/Betmaster_static_web/static/js/365.12924ded.chunk.js.map",
+    "212.f83e01fb.chunk.js.map": "/Betmaster_static_web/static/js/212.f83e01fb.chunk.js.map",
+    "147.c3007264.chunk.js.map": "/Betmaster_static_web/static/js/147.c3007264.chunk.js.map",
+    "243.2c5dfae0.chunk.js.map": "/Betmaster_static_web/static/js/243.2c5dfae0.chunk.js.map",
+    "615.61f0d7bc.chunk.js.map": "/Betmaster_static_web/static/js/615.61f0d7bc.chunk.js.map",
+    "453.e8f933bb.chunk.js.map": "/Betmaster_static_web/static/js/453.e8f933bb.chunk.js.map",
+    "315.e5950c4b.chunk.js.map": "/Betmaster_static_web/static/js/315.e5950c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75178409.css",
+    "static/js/main.d0eb8e54.js"
+  ]
+}
